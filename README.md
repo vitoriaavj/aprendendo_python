@@ -1,4 +1,4 @@
-# Phyton
+# Phyton do ZERO!
 Iniciando meu aprendizado do ZERO em Phyton!
 Vou colocar aqui exercícios de varios vídeos diferentes que for pegando para aprender a usar o Phyton
 Lembrando que sou completamente leiga e esto começando do ZERO!
